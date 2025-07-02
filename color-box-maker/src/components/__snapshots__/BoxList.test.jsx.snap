@@ -1,0 +1,40 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <form>
+      <label>
+        Width:
+        <input
+          name="width"
+          type="number"
+          value=""
+        />
+      </label>
+      <label>
+        Height:
+        <input
+          name="height"
+          type="number"
+          value=""
+        />
+      </label>
+      <label>
+        Background Color:
+        <input
+          name="backgroundColor"
+          type="text"
+          value=""
+        />
+      </label>
+      <button>
+        Add Box
+      </button>
+    </form>
+    <div
+      class="box-container"
+    />
+  </div>
+</DocumentFragment>
+`;

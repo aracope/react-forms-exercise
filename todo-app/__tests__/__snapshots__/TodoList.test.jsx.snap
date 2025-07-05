@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <form>
+      <label
+        for="task"
+      >
+        Task:
+      </label>
+      <input
+        aria-label="Task"
+        id="task"
+        name="task"
+        placeholder="Enter a task"
+        type="text"
+        value=""
+      />
+      <button
+        type="submit"
+      >
+        Add
+      </button>
+    </form>
+  </div>
+</DocumentFragment>
+`;
